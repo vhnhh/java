@@ -7,6 +7,6 @@ public class Bai_tap_02 {
         System.out.println("Enter USD:");
         float USD = scanner.nextFloat();
         System.out.println("VND is " + rate * USD);
-
+        System.out.println();
     }
 }
